@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GreatHeavens
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 Python Dev
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me ...
 
